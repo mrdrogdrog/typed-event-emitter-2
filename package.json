@@ -1,0 +1,16 @@
+{
+  "name": "typed-event-emitter-2",
+  "version": "0.0.1",
+  "license": "MIT",
+  "description": "Strictly typed event emitter interface for EventEmitter2",
+  "author": "Tilman Vatteroth",
+  "repository": "https://github.com/mrdrogdrog/typed-event-emitter-2",
+  "main": "./index.js",
+  "types": "./index.d.ts",
+  "peerDependencies": {
+    "eventemitter2": "*"
+  },
+  "devDependencies": {
+    "eventemitter2": "6.4.9"
+  }
+}
